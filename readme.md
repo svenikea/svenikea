@@ -23,14 +23,14 @@
 <br>
 
 ### Connect with me:
-[<img width="25px" alt="facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg">][facebook]
-[<img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
+[<img width="25px" align="left" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>][facebook]
+[<img align="left" width="25px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>][twitter]
 <br>
 <br>
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kynguyen98)](https://github.com/anuraghazra/github-readme-stats)
+![Ky's github stats](https://github-readme-stats.vercel.app/api?username=kynguyen98&count_private=true&show_icons=true&theme=dracula)
 
 
 
