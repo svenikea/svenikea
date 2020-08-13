@@ -29,8 +29,12 @@
 <br>
 
 
+<span><img src="https://github-readme-stats.vercel.app/api?username=kynguyen98&show_icons=true&theme=dracula"/></span>
 
-![Ky's github stats](https://github-readme-stats.vercel.app/api?username=kynguyen98&count_private=true&show_icons=true&theme=dracula)
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynguyen98&layout=compact&theme=gruvbox"/></span>
+
+
+
 
 
 
