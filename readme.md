@@ -23,8 +23,8 @@
 <br>
 
 ### Connect with me:
-[<img width="25px" align="left" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>][facebook]
-[<img align="left" width="25px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>][twitter]
+[<img width="26px" align="left" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>][facebook]
+[<img align="left" width="26px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>][twitter]
 <br>
 <br>
 
