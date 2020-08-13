@@ -7,9 +7,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and become a developer
 - ⚡ Fun fact: I love Arch Linux!
 
-<br>
 
----
 ### Languges and Tools
 <img width="30px" align="left" alt="vscode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left"width="30px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
@@ -23,20 +21,16 @@
 
 <br>
 <br>
-<br>
-
----
 
 ### Connect with me:
 [<img width="25px" alt="facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg">][facebook]
 [<img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
-[<img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/github.svg"/>][git]
+<br>
+<br>
 
 
-<br />
 
----
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kynguyen98)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
