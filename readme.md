@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
 ### Hi there, I'm Ky - aka BeastMaster64 👋
 
 ## I'm a College Student, Developer, and Linux Enthusiast 
@@ -29,10 +31,15 @@
 <br>
 <br>
 
-
-<span><img src="https://github-readme-stats.vercel.app/api?username=kynguyen98&show_icons=true&theme=dracula"/></span>
-
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynguyen98&layout=compact&theme=gruvbox"/></span>
+<div class"container">
+ <div class="row text-centered">
+ <div class="col-lg-4">
+  <img src="https://github-readme-stats.vercel.app/api?username=kynguyen98&show_icons=true&theme=dracula"/>
+ </div>
+  <div class="col-lg-4">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynguyen98&layout=compact&theme=gruvbox"/>
+ </div>
+</div>
 
 
 
