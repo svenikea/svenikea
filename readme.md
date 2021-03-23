@@ -3,15 +3,16 @@
 ### Hi there, I'm Ky - aka BeastMaster64 👋
 
 ## I'm a College Student, Developer, and Linux Enthusiast 
-- 📽 I’m currently working on a [Personal website][github]!
+- 📽 I’m currently studying to become a System Engineer 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2020 Goals: Contribute more to Open Source projects and become a developer
 - ⚡ Fun fact: I love Arch Linux!
+-  :earth_americas: Check out my [Personal website][github]!
 
 
 ### Languges and Tools
-<img width="30px" align="left" alt="vscode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+<img width="30px" align="left" alt="docker" src="https://raw.githubusercontent.com/simple-icons/simple-icons/fabc24eedb17146fca5ee56610cd2101e5d2ebde/icons/docker.svg"/>
 <img align="left"width="30px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" width="30px" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" width="30px" alt="js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
