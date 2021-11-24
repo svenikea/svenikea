@@ -6,7 +6,7 @@
 - 📽 I’m currently studying to become a System Engineer 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2020 Goals: Contribute more to Open Source projects and become a developer
+- 🥅 2022 Goals: Contribute more to Open Source projects and become a DevOps
 - ⚡ Fun fact: I love Arch Linux!
 -  :earth_americas: Check out my [Personal website][github]!
 
