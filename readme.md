@@ -35,10 +35,10 @@
 <div class"container">
  <div class="row text-centered">
  <div class="col-lg-4">
-  <img src="https://github-readme-stats.vercel.app/api?username=kynguyen98&show_icons=true&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=svenikea&show_icons=true&theme=dracula"/>
  </div>
   <div class="col-lg-4">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynguyen98&layout=compact&theme=gruvbox"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svenikea&layout=compact&theme=gruvbox"/>
  </div>
 </div>
 
