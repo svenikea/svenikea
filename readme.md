@@ -27,8 +27,10 @@
 ### Connect with me:
 [<img width="26px" align="left" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>][facebook]
 [<img align="left" width="26px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>][twitter]
+[<img align="left" width="26px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>][linkedin]
 <br>
 <br>
+
 
 <div class"container">
  <div class="row text-centered">
@@ -49,7 +51,7 @@
 [facebook]: https://www.facebook.com/sven.ikea
 [twitter]: https://twitter.com/Sven_Ikea
 [git]: https://github.com/svenikea
-
+[linkedin]: https://www.linkedin.com/in/ky-nguyen-a6b01316b/
 
  
 
