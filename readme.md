@@ -3,8 +3,7 @@
 ### Hi there, I'm Ky - aka BeastMaster64 👋
 
 ## I'm a Developer, and Linux Enthusiast 
-- 📽 I’m currently studying to become a Devops 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Devops stuffs 🤣
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2022 Goals: Contribute more to Open Source projects and become a DevOps
 - ⚡ Fun fact: I love Arch Linux!
@@ -15,6 +14,7 @@
 <img align="left" width="30px" alt="python" src="https://raw.githubusercontent.com/vinceliuice/Qogir-icon-theme/0e75f2a7bb13d2e8d2e05e32c39c1b8a15744a94/src/scalable/apps/python.svg"/>
 <img align="left" width="30px" alt="docker" src="https://img.icons8.com/color/48/000000/docker.png"/>
 <img align="left" width="30px" alt="ansible" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"/>
+<img align="left" width="30px" alt="terraform" src="https://github.com/github/explore/blob/661ed4ee3b3ac90b8e304e4b5afe8eca112c4f5a/topics/terraform/terraform.png"/>
 <img align="left" width="30px" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 <img  align="left" width="30px" alt="github" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 <img align="left" width="30px" alt="terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
