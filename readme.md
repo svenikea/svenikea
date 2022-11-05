@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Ky - aka BeastMaster64 👋
 
-## I'm a Developer, and Linux Enthusiast 
+## I'm a DevOps, and Linux Enthusiast 
 - 🌱 I’m currently learning Devops stuffs 🤣
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2022 Goals: Contribute more to Open Source projects and become a DevOps
