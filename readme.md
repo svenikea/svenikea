@@ -3,9 +3,8 @@
 ### Hi there, I'm Ky - aka BeastMaster64 👋
 
 ## I'm a DevOps, and Linux Enthusiast 
-- 🌱 I’m currently learning Devops stuffs 🤣
+- 🌱 I’m currently doing Devops stuffs 🤣
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2023 Goals: Contribute more to Open Source projects and become a DevOps
 - ⚡ Fun fact: I love Arch Linux!
 -  :earth_americas: Check out my [Personal website][github]!
 
