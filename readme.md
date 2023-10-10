@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
-### Hi there, I'm Ky - aka BeastMaster64 👋
+### Hi there, I'm Sven - aka BeastMaster64 👋
 
 ## I'm a DevOps, and Linux Enthusiast 
 - 🌱 I’m currently doing Devops stuffs 🤣
@@ -50,7 +50,7 @@
 [facebook]: https://www.facebook.com/sven.ikea
 [twitter]: https://twitter.com/Sven_Ikea
 [git]: https://github.com/svenikea
-[linkedin]: https://www.linkedin.com/in/ky-nguyen-a6b01316b/
+[linkedin]: https://www.linkedin.com/in/kynguyen98/
 
  
 
